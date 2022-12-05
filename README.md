@@ -32,4 +32,23 @@ Spring, Mybatis, Vue.js를 이해하고 활용하여 Web Project를 설계하고
 
 <br><br>
 ## 대표 이미지
-![image](https://user-images.githubusercontent.com/44861724/175033817-d416e747-1f49-4763-b1c4-5a963ae5e160.png)
+![image](https://user-images.githubusercontent.com/44861724/205567221-4c1f0a0f-a346-4e67-a0d2-8f4a2cb11a3e.png)
+
+## 아파트 매매 정보 조회
+![image](https://user-images.githubusercontent.com/44861724/205567643-02053e62-0323-47a3-bc22-ecf9bf6c9419.png)
+![image](https://user-images.githubusercontent.com/44861724/205567666-3574eaea-c534-44f2-9662-818b411129e3.png)
+![image](https://user-images.githubusercontent.com/44861724/205567687-8b45ba6c-366a-4bbf-ab2d-3f673242a6ed.png)
+
+## 관심단지
+![image](https://user-images.githubusercontent.com/44861724/205567729-a27b8268-260a-4e18-915c-2f7ec1c60860.png)
+
+## 허위매물 신고
+![image](https://user-images.githubusercontent.com/44861724/205567885-f92d432c-b430-4c96-893c-0d16da0a1d47.png)
+
+## 중개사 매물관리
+![image](https://user-images.githubusercontent.com/44861724/205567780-c522cd6d-2c56-4b05-ba37-d88189f800ce.png)
+![image](https://user-images.githubusercontent.com/44861724/205567790-d45c6814-d2d4-43d5-bb51-604bc3364836.png)
+
+## 채팅
+![image](https://user-images.githubusercontent.com/44861724/205567842-9a7dd398-c206-4c8a-a670-678fa8400d85.png)
+
